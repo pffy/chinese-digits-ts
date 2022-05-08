@@ -9,6 +9,7 @@ Chinese digits for converting numbers
 
 You can add this module to your node project using:
 
+```
 $ npm i -D git+https://github.com/pffy/chinese-digits-ts.git
 ```
 
